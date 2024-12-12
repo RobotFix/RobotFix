@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobotFix
 - 👀 I’m interested in Movies and Stratgy Games
-- 🌱 I’m currently learning Javasript 😅
+- 🌱 I’m currently learning web dev and Rust
 - 💞️ I’m looking to collaborate on Various Web Projects
 - 😄 Pronouns: He/Him
 
